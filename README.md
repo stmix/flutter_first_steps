@@ -1,6 +1,6 @@
-# splash_screen
+# My first steps in Flutter
 
-A new Flutter project.
+My first Flutter project.
 
 ## Getting Started
 
